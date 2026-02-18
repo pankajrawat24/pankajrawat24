@@ -20,26 +20,23 @@ I enjoy turning ideas into practical applications that solve real problems.
 <h2>🧰 Tech Stack</h2>
 
 <h3>💻 Programming & Databases</h3> 
-<p>┈┈➤ Python • SQL • MySQL </p>
+<p>➤ Python • SQL • MySQL • Query Optimization</p>
 
 <h3>📊 Data Science & Analytics</h3>
-<p>┈┈➤
-Pandas • NumPy • Scikit-learn • Power BI
-</p>
+<p>➤ Pandas • NumPy • Scikit-learn • Power BI • Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA)</p>
+
+<h3>🤖 AI & Machine Learning</h3>
+<p>➤ Machine Learning Basics • Classification & Regression • Data Preprocessing • Model Training & Evaluation</p>
 
 <h3>🌐 Development & Tools</h3>
-<p>┈┈➤
-HTML • CSS • JavaScript • Git • GitHub
-</p>
+<p>➤ HTML • CSS • JavaScript • Responsive Design • Git • GitHub</p>
 
 <h3>🎨 Design & No-Code</h3>
-<p>┈┈➤
-WordPress • Figma
+<p>➤ WordPress • Figma • UI/UX Design • Wireframing • Prototyping</p>
+
+<h2>🚀 Let's Connect & Build</h2>
+
+<p>
+I am always open to discussing new ideas, collaborating on meaningful projects, and exploring opportunities in AI/ML and Data Analytics.
+If you're working on something interesting or looking for a dedicated developer, feel free to connect with me.
 </p>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20[Your%20Name]&fontAlign=50&fontAlignY=35&color=0:4facfe,100:00f2fe&fontColor=ffffff"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4facfe,100:00f2fe"/>
-
-  
