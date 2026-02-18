@@ -20,20 +20,20 @@ I enjoy turning ideas into practical applications that solve real problems.
 <h2>🧰 Tech Stack</h2>
 
 <h3>💻 Programming & Databases</h3> 
-╰┈┈┈┈➤<p> Python • SQL • MySQL </p>
+<p>┈┈┈┈➤ Python • SQL • MySQL </p>
 
 <h3>📊 Data Science & Analytics</h3>
-╰┈┈┈┈➤<p>
+<p>┈┈┈┈➤
 Pandas • NumPy • Scikit-learn • Power BI
 </p>
 
 <h3>🌐 Development & Tools</h3>
-╰┈┈┈┈➤<p>
+<p>┈┈┈┈➤
 HTML • CSS • JavaScript • Git • GitHub
 </p>
 
 <h3>🎨 Design & No-Code</h3>
-╰┈┈┈┈➤<p>
+<p>┈┈┈┈➤
 WordPress • Figma
 </p>
 
