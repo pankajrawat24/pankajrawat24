@@ -1,6 +1,6 @@
 <h1> Hi👋, I'm Pankaj Singh Rawat </h1>
 
-<p><i>Crafting data-driven solutions ✎  | AI/ML & Data Analytics ♡  | SQL & Database Systems ❀  | Web Design & Deployment ✦ </i></p>
+<p><i>Crafting data-driven solutions ✎ | AI/ML & Data Analytics ♡ | SQL & Database Systems ❀ | Web Design & Deployment ✦ </i></p>
 
 <p>
 Passionate about building real-world solutions using data, machine learning, and modern development tools.
