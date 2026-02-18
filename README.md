@@ -19,21 +19,22 @@ I enjoy turning ideas into practical applications that solve real problems.
 
 <h2>🧰 Tech Stack</h2>
 
-<h3>💻 Programming & Databases</h3> 
+<h4>💻 Programming & Databases</h4> 
 <p>➤ Python • SQL • MySQL • Query Optimization</p>
 
-<h3>📊 Data Science & Analytics</h3>
+<h4>📊 Data Science & Analytics</h4>
 <p>➤ Pandas • NumPy • Scikit-learn • Power BI • Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA)</p>
 
-<h3>🤖 AI & Machine Learning</h3>
+<h4>🤖 AI & Machine Learning</h4>
 <p>➤ Machine Learning Basics • Classification & Regression • Data Preprocessing • Model Training & Evaluation</p>
 
-<h3>🌐 Development & Tools</h3>
+<h4>🌐 Development & Tools</h4>
 <p>➤ HTML • CSS • JavaScript • Responsive Design • Git • GitHub</p>
 
-<h3>🎨 Design & No-Code</h3>
+<h4>🎨 Design & No-Code</h4>
 <p>➤ WordPress • Figma • UI/UX Design • Wireframing • Prototyping</p>
 
+<br>
 <h2>🚀 Let's Connect & Build</h2>
 
 <p>
