@@ -39,9 +39,7 @@ WordPress • Figma
 
 </div>
 
-<h3 align="center">✨ Always learning, building, and improving.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20[Your%20Name]&fontAlign=50&fontAlignY=35&color=0:4facfe,100:00f2fe&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4facfe,100:00f2fe"/>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
   
