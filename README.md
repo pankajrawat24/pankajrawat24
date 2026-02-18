@@ -2,12 +2,6 @@
 
 <p><i>Crafting data-driven solutions | AI/ML & Data Analytics | SQL & Database Systems | Web Design & Deployment </i></p>
 
-<p>
-Passionate about building real-world solutions using data, machine learning, and modern development tools.
-I enjoy turning ideas into practical applications that solve real problems.
-</p>
-
-
 <h2>💡 About Me</h2>
 
 <ul>
