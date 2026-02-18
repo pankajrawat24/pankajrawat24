@@ -13,7 +13,7 @@
 
 <h2>🧰 Tech Stack</h2>
 
-<p><strong>💻 Programming & Databases</strong> - Python • SQL • MySQL • Query Optimization</p>
+<p><strong>💻 <u>Programming & Databases</u></strong> - Python • SQL • MySQL • Query Optimization</p>
 
 <p><strong>📊 Data Science & Analytics</strong> - Pandas • NumPy • Scikit-learn • Power BI • Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA)</p>
 
