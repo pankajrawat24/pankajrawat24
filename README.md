@@ -20,12 +20,42 @@ I enjoy turning ideas into practical applications that solve real problems.
 
 <h2>🧰 Tech Stack</h2>
 
+<h2>🧰 Tech Stack</h2>
+
+<div align="center">
+
+<h3>💻 Programming & Databases</h3>
 <p>
-<b>Languages & Tools:</b><br><br>
-
-Python • SQL • MySQL • Pandas • NumPy • Scikit-learn • Power BI • Git & GitHub • HTML • CSS • JavaScript • WordPress • Figma
-
+<span style="background-color:#f0f0f0; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Python</span>
+<span style="background-color:#f0f0f0; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">SQL</span>
+<span style="background-color:#f0f0f0; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">MySQL</span>
 </p>
+
+<h3>📊 Data Science & Analytics</h3>
+<p>
+<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Pandas</span>
+<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">NumPy</span>
+<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Scikit-learn</span>
+<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Power BI</span>
+</p>
+
+<h3>🌐 Development & Tools</h3>
+<p>
+<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">HTML</span>
+<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">CSS</span>
+<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">JavaScript</span>
+<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Git</span>
+<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">GitHub</span>
+</p>
+
+<h3>🎨 Design & No-Code</h3>
+<p>
+<span style="background-color:#fff4e6; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">WordPress</span>
+<span style="background-color:#fff4e6; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Figma</span>
+</p>
+
+</div>
+
 
 <hr>
 
