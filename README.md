@@ -18,39 +18,27 @@ I enjoy turning ideas into practical applications that solve real problems.
 </ul>
 <h2>🧰 Tech Stack</h2>
 
-<div style="max-width: 800px;">
+<div>
 
-<!-- Programming & Databases -->
-<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px; margin-bottom:12px;">
-  <h3 style="margin:0; font-size:16px;">💻 Programming & Databases</h3>
-  <p style="margin:6px 0 0 0; color:#555;">
-    Python • SQL • MySQL
-  </p>
-</div>
+<h2>🧰 Tech Stack</h2>
 
-<!-- Data Science -->
-<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px; margin-bottom:12px;">
-  <h3 style="margin:0; font-size:16px;">📊 Data Science & Analytics</h3>
-  <p style="margin:6px 0 0 0; color:#555;">
-    Pandas • NumPy • Scikit-learn • Power BI
-  </p>
-</div>
+<h3>💻 Programming & Databases</h3> <p> Python • SQL • MySQL </p>
 
-<!-- Development -->
-<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px; margin-bottom:12px;">
-  <h3 style="margin:0; font-size:16px;">🌐 Development & Tools</h3>
-  <p style="margin:6px 0 0 0; color:#555;">
-    HTML • CSS • JavaScript • Git • GitHub
-  </p>
-</div>
+<h3>📊 Data Science & Analytics</h3>
+<p>
+Pandas • NumPy • Scikit-learn • Power BI
+</p>
 
-<!-- Design -->
-<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px;">
-  <h3 style="margin:0; font-size:16px;">🎨 Design & No-Code</h3>
-  <p style="margin:6px 0 0 0; color:#555;">
-    WordPress • Figma
-  </p>
-</div>
+<h3>🌐 Development & Tools</h3>
+<p>
+HTML • CSS • JavaScript • Git • GitHub
+</p>
+
+<h3>🎨 Design & No-Code</h3>
+<p>
+WordPress • Figma
+</p>
+
 
 </div>
 
