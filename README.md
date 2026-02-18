@@ -39,19 +39,9 @@ WordPress • Figma
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Enthusiast;Data+Analytics+Learner;Building+Data-Driven+Projects;Open+to+Opportunities&center=true&width=500&height=45">
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,100:2575fc&section=footer"/>
+<h3 align="center">✨ Always learning, building, and improving.</h3>
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<h3>Hi 👋 I'm [Your Name]</h3>
-<p>AI/ML & Data Analytics Enthusiast building real-world projects.</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
-
-<h3 align="center">✨ Always learning, building, and improving.</h3>
+  
