@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Singh Rawat</h1>
 
-<h3 align="center">🚀 Crafting data-driven solutions | AI/ML & Data Analytics | SQL & Database Systems | Web Design & Deployment</h3>
-
-<p align="center">
+<p>
 Passionate about building real-world solutions using data, machine learning, and modern development tools.
 I enjoy turning ideas into practical applications that solve real problems.
 </p>
@@ -14,7 +12,6 @@ I enjoy turning ideas into practical applications that solve real problems.
 <ul>
 <li>🎓 MCA Graduate specializing in <b>Artificial Intelligence & Machine Learning</b></li>
 <li>📊 Strong interest in <b>Data Analytics, Machine Learning, and Software Development</b></li>
-<li>🛠️ Skilled in building projects like <b>Fraud Detection Systems, Dashboards, and Automation Tools</b></li>
 <li>🌱 Currently improving skills in <b>Advanced ML, Backend Systems, and Real-time Applications</b></li>
 <li>🤝 Open to <b>internships, entry-level roles, and collaboration opportunities</b></li>
 </ul>
