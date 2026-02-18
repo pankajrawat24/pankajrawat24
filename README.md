@@ -14,7 +14,7 @@ I enjoy turning ideas into practical applications that solve real problems.
 <li>🎓 MCA Graduate specializing in <b>Artificial Intelligence & Machine Learning</b></li>
 <li>📊 Strong interest in <b>Data Analytics, Machine Learning, and Software Development</b></li>
 <li>🌱 Currently improving skills in <b>Advanced ML, Backend Systems, and Real-time Applications</b></li>
-<li>🤝 Open to <b>internships, entry-level roles, and collaboration opportunities</b></li>
+<li>🤝 Open to work and collaboration opportunities in <b>AI/ML, Data Analytics, and Software Development</b></li>
 </ul>
 
 <hr>
