@@ -29,41 +29,4 @@ Python • SQL • MySQL • Pandas • NumPy • Scikit-learn • Power BI • 
 
 <hr>
 
-<h2>📌 Featured Projects</h2>
-
-<ul>
-<li><b>🔐 Bank Transaction Fraud Detection</b><br>
-Machine learning model to detect fraudulent transactions using classification techniques and real-world data processing.</li>
-
-<br>
-
-<li><b>📊 Data Analytics Dashboard</b><br>
-Interactive Power BI dashboard to analyze revenue, user engagement, and operational insights.</li>
-
-<br>
-
-<li><b>🏧 ATM Simulator (Python)</b><br>
-Command-line banking system supporting transactions, balance check, and fund transfer features.</li>
-</ul>
-
-<hr>
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="150">
-</p>
-
-<hr>
-
-<h2>🌐 Connect With Me</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a> |
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
-</p>
-
-<hr>
-
 <h3 align="center">✨ Always learning, building, and improving.</h3>
