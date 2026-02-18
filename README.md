@@ -23,7 +23,6 @@
 
 <p><strong>🎨 Design & No-Code</strong> - WordPress • Figma • UI/UX Design • Wireframing • Prototyping</p>
 
-<br>
 <h2>🚀 Let's Connect & Build</h2>
 
 <p>
