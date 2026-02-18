@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pankaj Singh Rawat</h1>
+<h1> 👋 Pankaj Singh Rawat </h1>
 
 <p>
 Passionate about building real-world solutions using data, machine learning, and modern development tools.
 I enjoy turning ideas into practical applications that solve real problems.
 </p>
 
-<hr>
 
 <h2>💡 About Me</h2>
 
