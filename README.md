@@ -16,26 +16,24 @@ I enjoy turning ideas into practical applications that solve real problems.
 <li>🌱 Currently improving skills in <b>Advanced ML, Backend Systems, and Real-time Applications</b></li>
 <li>🤝 Open to work and collaboration opportunities in <b>AI/ML, Data Analytics, and Software Development</b></li>
 </ul>
-<h2>🧰 Tech Stack</h2>
-
-<div>
 
 <h2>🧰 Tech Stack</h2>
 
-<h3>💻 Programming & Databases</h3> <p> Python • SQL • MySQL </p>
+<h3>💻 Programming & Databases</h3> 
+╰┈┈┈┈➤<p> Python • SQL • MySQL </p>
 
 <h3>📊 Data Science & Analytics</h3>
-<p>
+╰┈┈┈┈➤<p>
 Pandas • NumPy • Scikit-learn • Power BI
 </p>
 
 <h3>🌐 Development & Tools</h3>
-<p>
+╰┈┈┈┈➤<p>
 HTML • CSS • JavaScript • Git • GitHub
 </p>
 
 <h3>🎨 Design & No-Code</h3>
-<p>
+╰┈┈┈┈➤<p>
 WordPress • Figma
 </p>
 
