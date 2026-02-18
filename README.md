@@ -20,25 +20,28 @@ I enjoy turning ideas into practical applications that solve real problems.
 <h2>🧰 Tech Stack</h2>
 
 <h3>💻 Programming & Databases</h3> 
-<p>┈┈┈┈➤ Python • SQL • MySQL </p>
+<p>┈┈➤ Python • SQL • MySQL </p>
 
 <h3>📊 Data Science & Analytics</h3>
-<p>┈┈┈┈➤
+<p>┈┈➤
 Pandas • NumPy • Scikit-learn • Power BI
 </p>
 
 <h3>🌐 Development & Tools</h3>
-<p>┈┈┈┈➤
+<p>┈┈➤
 HTML • CSS • JavaScript • Git • GitHub
 </p>
 
 <h3>🎨 Design & No-Code</h3>
-<p>┈┈┈┈➤
+<p>┈┈➤
 WordPress • Figma
 </p>
 
-
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Enthusiast;Data+Analytics+Learner;Building+Data-Driven+Projects;Open+to+Opportunities&center=true&width=500&height=45">
+</p>
 
 
 <h3 align="center">✨ Always learning, building, and improving.</h3>
