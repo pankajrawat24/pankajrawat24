@@ -16,48 +16,43 @@ I enjoy turning ideas into practical applications that solve real problems.
 <li>🌱 Currently improving skills in <b>Advanced ML, Backend Systems, and Real-time Applications</b></li>
 <li>🤝 Open to work and collaboration opportunities in <b>AI/ML, Data Analytics, and Software Development</b></li>
 </ul>
-
-<hr>
-
 <h2>🧰 Tech Stack</h2>
 
-<h2>🧰 Tech Stack</h2>
+<div style="max-width: 800px;">
 
-<div align="center">
+<!-- Programming & Databases -->
+<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px; margin-bottom:12px;">
+  <h3 style="margin:0; font-size:16px;">💻 Programming & Databases</h3>
+  <p style="margin:6px 0 0 0; color:#555;">
+    Python • SQL • MySQL
+  </p>
+</div>
 
-<h3>💻 Programming & Databases</h3>
-<p>
-<span style="background-color:#f0f0f0; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Python</span>
-<span style="background-color:#f0f0f0; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">SQL</span>
-<span style="background-color:#f0f0f0; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">MySQL</span>
-</p>
+<!-- Data Science -->
+<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px; margin-bottom:12px;">
+  <h3 style="margin:0; font-size:16px;">📊 Data Science & Analytics</h3>
+  <p style="margin:6px 0 0 0; color:#555;">
+    Pandas • NumPy • Scikit-learn • Power BI
+  </p>
+</div>
 
-<h3>📊 Data Science & Analytics</h3>
-<p>
-<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Pandas</span>
-<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">NumPy</span>
-<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Scikit-learn</span>
-<span style="background-color:#e8f4ff; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Power BI</span>
-</p>
+<!-- Development -->
+<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px; margin-bottom:12px;">
+  <h3 style="margin:0; font-size:16px;">🌐 Development & Tools</h3>
+  <p style="margin:6px 0 0 0; color:#555;">
+    HTML • CSS • JavaScript • Git • GitHub
+  </p>
+</div>
 
-<h3>🌐 Development & Tools</h3>
-<p>
-<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">HTML</span>
-<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">CSS</span>
-<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">JavaScript</span>
-<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Git</span>
-<span style="background-color:#eafbea; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">GitHub</span>
-</p>
-
-<h3>🎨 Design & No-Code</h3>
-<p>
-<span style="background-color:#fff4e6; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">WordPress</span>
-<span style="background-color:#fff4e6; padding:6px 12px; border-radius:12px; margin:4px; display:inline-block;">Figma</span>
-</p>
+<!-- Design -->
+<div style="border:1px solid #e0e0e0; border-radius:12px; padding:12px 16px;">
+  <h3 style="margin:0; font-size:16px;">🎨 Design & No-Code</h3>
+  <p style="margin:6px 0 0 0; color:#555;">
+    WordPress • Figma
+  </p>
+</div>
 
 </div>
 
-
-<hr>
 
 <h3 align="center">✨ Always learning, building, and improving.</h3>
