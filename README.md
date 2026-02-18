@@ -13,20 +13,15 @@
 
 <h2>🧰 Tech Stack</h2>
 
-<h4>💻 Programming & Databases</h4> 
-<p>➤ Python • SQL • MySQL • Query Optimization</p>
+<p><strong>💻 Programming & Databases</strong> || Python • SQL • MySQL • Query Optimization</p>
 
-<h4>📊 Data Science & Analytics</h4>
-<p>➤ Pandas • NumPy • Scikit-learn • Power BI • Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA)</p>
+<p><strong>📊 Data Science & Analytics</strong> || Pandas • NumPy • Scikit-learn • Power BI • Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA)</p>
 
-<h4>🤖 AI & Machine Learning</h4>
-<p>➤ Machine Learning Basics • Classification & Regression • Data Preprocessing • Model Training & Evaluation</p>
+<p><strong>🤖 AI & Machine Learning</strong> || Machine Learning Basics • Classification & Regression • Data Preprocessing • Model Training & Evaluation</p>
 
-<h4>🌐 Development & Tools</h4>
-<p>➤ HTML • CSS • JavaScript • Responsive Design • Git • GitHub</p>
+<p><strong>🌐 Development & Tools</strong> || HTML • CSS • JavaScript • Responsive Design • Git • GitHub</p>
 
-<h4>🎨 Design & No-Code</h4>
-<p>➤ WordPress • Figma • UI/UX Design • Wireframing • Prototyping</p>
+<p><strong>🎨 Design & No-Code</strong> || WordPress • Figma • UI/UX Design • Wireframing • Prototyping</p>
 
 <br>
 <h2>🚀 Let's Connect & Build</h2>
